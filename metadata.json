@@ -1,0 +1,8 @@
+{
+  "name": "AquaShield — FloodGuard: Smart Flood Alert System",
+  "description": "Futuristic flood-monitoring control centre, interactive satellite map of Malappuram, real-time flood simulation engine, and emergency preparedness system by Team Atlas for the School Science Fair.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
